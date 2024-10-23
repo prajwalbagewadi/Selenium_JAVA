@@ -1,0 +1,62 @@
+Selenium Overview
+
+Selenium is an open-source tool for automating web browser interactions, widely used for testing web applications.
+
+Key Features:
+
+1. Cross-browser support (Chrome, Firefox, Safari, Edge)
+2. Cross-platform support (Windows, macOS, Linux)
+3. Multi-language support (Java, Python, C#, Ruby, JavaScript)
+4. Parallel test execution
+5. Open-source and free
+6. Integration with other tools (TestNG, Jenkins, Maven, JUnit)
+
+Components:
+
+1. Selenium WebDriver: Automates web browsers by interacting with browser elements.
+2. Selenium IDE: Record-and-playback tool for creating automated test cases.
+3. Selenium Grid: Distributed test execution across multiple machines and browsers.
+4. Selenium RC (Legacy): Deprecated component replaced by Selenium WebDriver.
+
+WebDriver Features:
+
+1. Direct browser interaction
+2. Supports multiple browsers and platforms
+3. Handles complex user actions
+4. Flexible programming language support
+5. Handles multiple browser windows, popups, alerts, and iFrames
+
+Selenium IDE Features:
+
+1. Record-and-playback functionality
+2. No coding required
+3. Export test cases to various programming languages
+4. Suitable for simple tasks or initial test creation
+
+Selenium Grid Features:
+
+1. Cross-browser and cross-platform testing at scale
+2. Distributed test execution
+3. Improves efficiency and reduces execution time
+
+Advantages:
+
+1. Cost-effective
+2. Open-source community support
+3. Flexible and scalable
+4. Integrates with other tools
+5. Supports multiple programming languages
+
+Disadvantages:
+
+1. Steep learning curve
+2. Requires programming skills
+3. Browser compatibility issues
+4. Test maintenance challenges
+
+Use Cases:
+
+1. Web application testing
+2. Automation of repetitive tasks
+3. Cross-browser compatibility testing
+4. Regression testing
